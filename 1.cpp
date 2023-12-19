@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int array[5], max, min;
+    double array[5], max, min;
     cout<<"Enter 5 random values to form an array\n";
     for(int i=0;i<5;i++)
     cin>>array[i];
